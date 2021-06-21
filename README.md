@@ -24,5 +24,8 @@ func main() {
 
 ## 效果
 
-![avatar][https://github.com/starjun/ngxParse/blob/master/效果.png]
+![img1][1]
 
+
+
+[1]: ./效果.png
