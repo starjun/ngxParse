@@ -24,5 +24,5 @@ func main() {
 
 ## 效果
 
-![avatar][https://raw.githubusercontent.com/starjun/ngxParse/master/效果.png]
+![avatar][https://github.com/starjun/ngxParse/blob/master/效果.png]
 
